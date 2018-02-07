@@ -1,0 +1,10 @@
+﻿  Blackjeck.cpp
+c:\users\beer\desktop\classc++\arkhane_sagunasingha\cis2013_week03_homework03\homewrok03\homewrok03\blackjeck.cpp(11): warning C4101: 'playerCard': unreferenced local variable
+c:\users\beer\desktop\classc++\arkhane_sagunasingha\cis2013_week03_homework03\homewrok03\homewrok03\blackjeck.cpp(10): warning C4101: 'dealerCard': unreferenced local variable
+c:\users\beer\desktop\classc++\arkhane_sagunasingha\cis2013_week03_homework03\homewrok03\homewrok03\blackjeck.cpp(14): warning C4101: 'playing': unreferenced local variable
+c:\users\beer\desktop\classc++\arkhane_sagunasingha\cis2013_week03_homework03\homewrok03\homewrok03\blackjeck.cpp(12): warning C4101: 'y': unreferenced local variable
+c:\users\beer\desktop\classc++\arkhane_sagunasingha\cis2013_week03_homework03\homewrok03\homewrok03\blackjeck.cpp(10): warning C4101: 'dcardTotal': unreferenced local variable
+c:\users\beer\desktop\classc++\arkhane_sagunasingha\cis2013_week03_homework03\homewrok03\homewrok03\blackjeck.cpp(10): warning C4101: 'dcard_2': unreferenced local variable
+c:\users\beer\desktop\classc++\arkhane_sagunasingha\cis2013_week03_homework03\homewrok03\homewrok03\blackjeck.cpp(10): warning C4101: 'dpcard_1': unreferenced local variable
+c:\users\beer\desktop\classc++\arkhane_sagunasingha\cis2013_week03_homework03\homewrok03\homewrok03\blackjeck.cpp(12): warning C4101: 'n': unreferenced local variable
+  Homewrok03.vcxproj -> C:\Users\beer\Desktop\ClassC++\Arkhane_Sagunasingha\CIS2013_Week03_Homework03\Homewrok03\Debug\Homewrok03.exe
